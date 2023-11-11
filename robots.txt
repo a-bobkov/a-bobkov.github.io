@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /redis-search-values-demo/coffee.png
+
+Sitemap: https://a-bobkov.github.io/sitemap.xml
