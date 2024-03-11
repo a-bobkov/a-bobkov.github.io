@@ -1,6 +1,7 @@
-# List of my public investigations
+# List of my published investigations
 
 | Year | Description                                                                                                              | Repository                                                            | Publication                                                            |
 |:-----|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------|
 | 2023 | Demonstration of search in redis values server-side with a special lua-script, returning only needed data to the client. | [Repository](https://github.com/a-bobkov/redis-search-values-demo)    | [Publication](https://a-bobkov.github.io/redis-search-values-demo/)    |
 | 2024 | Module `spryker/url`, improved to avoid rename problem, with reproduction, analysis and demonstration of the solution.   | [Repository](https://github.com/a-bobkov/spryker-url-rename-solution) | [Publication](https://a-bobkov.github.io/spryker-url-rename-solution/) |
+| 2024 | Technological implementation of PayPal Express Checkout for Computop Node.js API.   | [Repository](https://github.com/a-bobkov/paypal-express-checkout-computop-solution) | [Publication](https://a-bobkov.github.io/paypal-express-checkout-computop-solution/) |
